@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Karina Dwinovera\\OneDrive - Bina Nusantara\\Documents\\BINUS\\Matkul Semester 3\\OOP\\JDBC\\postgresql-42.7.1.jar"
+    ]
+}
