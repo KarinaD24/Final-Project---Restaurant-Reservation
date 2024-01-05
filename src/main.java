@@ -19,9 +19,12 @@ public class main {
             in = scan.nextInt();
             scan.nextLine();
 
+            //test
+
             switch (in) {
                 case 1:
                     // reservation
+    
                     break;
             
                 case 2:
